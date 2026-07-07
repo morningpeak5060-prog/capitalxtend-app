@@ -1,0 +1,13 @@
+{
+  "appId": "com.capitalxtend.app",
+  "appName": "CapitalXtend",
+  "webDir": "www",
+  "server": {
+    "url": "https://capitalxtend.com",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0A0E1A"
+  }
+}
